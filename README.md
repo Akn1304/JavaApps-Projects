@@ -1,1 +1,1 @@
-# JavaServlet
+# JApps Project
